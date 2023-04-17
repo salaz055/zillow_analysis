@@ -15,3 +15,5 @@ The questions that I hope to answer during the analysis portion of this project 
 2. Which variables have the strongest correlations with price?
 3. How many listings in each city have decreased the asking price? How much was the asking price decreased?
 4. Which cities have living spaces that cover the largest proportion of total lot size?
+
+Finally, I will end by creating models to predict the price of a home using city , number of bathrooms, number of bedrooms, living area sqft , and total lot area sqft. Comparing this "predicted price" with the actual price on the listing can help find homes priced signiifcantly below expectation that could be a good value for the buyer.
